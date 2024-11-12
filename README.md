@@ -73,4 +73,4 @@ Thank you for visiting my profile! Feel free to explore my projects, and let's c
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=kinjalsingh&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shouryamishra&color=blue&style=flat-square)
