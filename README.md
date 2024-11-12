@@ -1,5 +1,5 @@
 # portfolio
-![Background Image](https://raw.githubusercontent.com/kinjalllsingh/DSA-/refs/heads/main/WhatsApp%20Image%202024-11-03%20at%2021.10.20_0156b7d1%20mai%20hoon.jpg)
+![Background Image](https://raw.githubusercontent.com/s-hourya/portfolio/refs/heads/main/port%20image%20.jpg)
 
 # 👋 Hello, I'm Shourya Mishra!
 
